@@ -1,0 +1,4 @@
+#Tue Dec 13 23:46:56 MSK 2022
+base.0=F\:\\repository\\TestProject\\TestAssignment\\TestProjectSPSDigital\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

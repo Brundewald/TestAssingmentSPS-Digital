@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a80a8f8bbf074651ac06b8587935932d, type: 3}
+  m_Name: GameplaySettings
+  m_EditorClassIdentifier: 
+  _playerMaxHp: 100
+  _playerAttackSpeed: 1
+  _playerDamage: 30
+  _enhanceCost: 5
+  _hpStatLevel: 1
+  _damageStatLevel: 1
+  _attackSpeedLevel: 1
+  _initialMPCount: 0
+  _hpModifier: 30
